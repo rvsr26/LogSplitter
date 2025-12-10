@@ -15,16 +15,16 @@ This project demonstrates a high-performance log analysis pipeline implemented i
 
 ## 📦 How to Run
 
-1.  Save the provided Python code as `log_analyzer.py`.
+1.  Save the provided Python code as `main.py`.
 2.  Run the script from your terminal:
 
     ```bash
-    python log_analyzer.py
+    python main.py
     ```
 
 ## ⚙️ Configuration
 
-The core parameters for the analysis are set at the top of the `log_analyzer.py` file:
+The core parameters for the analysis are set at the top of the `main.py` file:
 
 | Constant | Default Value | Description |
 | :--- | :--- | :--- |
